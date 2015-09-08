@@ -1,0 +1,29 @@
+body {
+  background: #113463;
+}
+
+h1 {
+  font-family: Avenir;
+  color: white;
+}
+
+label {
+  color: white;
+}
+
+ #login-form {
+  background: #000000;
+  margin: 0 auto;
+  width: 300px;
+  padding: 20px;
+  height: 150px;
+
+}
+
+#signup-form {
+  background: #000000;
+  margin: 0 auto;
+  width: 300px;
+  padding: 20px;
+  height: 150px;
+}
